@@ -14,19 +14,13 @@
   margin-bottom: 100px;
 }
 
-
-.large-fixed-text {
-  font-size:4rem;
-  font-family:Futura;
-  padding-left:50px;
-}
-
+/*
 .sticky-col-stack {
     container-name: sticks;
     container-type: size;
   }
 
-/*
+
 .sticky-col-stack video {
     width: 100cqw !important;
     height: 100cqh !important;
