@@ -16,5 +16,4 @@ Draw your readers attention with: @cr-features
 2. Zooming
 3. Panning
 :::
-
 :::
